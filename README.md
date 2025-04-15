@@ -3,4 +3,5 @@
 2. Notes app:Maintain notes
 3. Password generator: Accroding to our need we can generate any length passwors with help of digit,alphabets,special characters
 4.Quiz : we can add MCA based question and once fininshing of quiz result is generated
-5.
+5. Sound board: we can store diffrent audio files from diffrent sound
+6.TOdo list: we can maintain and manage everyday updates in todo list
